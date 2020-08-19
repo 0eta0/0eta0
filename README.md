@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=0eta0&show_icons=true&count_private=true"></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0eta0&hide=Jupyter+Notebook,C,html,css"></td>
+</tr>
+</table>
+
 <!--
 **0eta0/0eta0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
